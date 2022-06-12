@@ -1,0 +1,12 @@
+Crime studies conclude that crime does not occur evenly across urban landscapes but concentrates in certain areas. In India, there is a strong need of Crime Surveillance
+system. Identifying the Crime hotspots can help in taking corrective measures related to crimes. In the current era, many traditional Hotspot analysis techniques are used 
+but improvements are still needed for getting efficient output as crime hotspots (areas with high intensity of crimes). 
+
+A major challenge faced by most of the law enforcement and intelligence organisations is efficiently and accurately analysing the growing volumes of crime related data. 
+The vast geographical diversity and the complexity of crime patterns have made the analysing and recording of crime data more difficult. 
+
+Data Visualisation can be used to analyse large datasets and derive important analytical results. The proposed system collects data from various sources like media, removes
+redundant Information, flattens and visualises the data. Web Scrapers are to be used for obtaining the raw data while Tableau is to be used for performing visualisations. 
+
+The proposed system consists of a rich and simplified environment that can be used effectively for processes of crime analysis. The proposed system could be used to 
+identify region wise count of crimes and take precautionary measures to prevent crimes in the identified hotspots.
